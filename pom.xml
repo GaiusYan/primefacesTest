@@ -67,7 +67,16 @@
 		<classifier>jakarta</classifier>
 	</dependency>
 
-
+		<dependency>
+			<groupId>javax.faces</groupId>
+			<artifactId>javax.faces-api</artifactId>
+			<version>2.3</version> <!-- Version selon vos besoins -->
+		</dependency>
+		<dependency>
+			<groupId>org.glassfish</groupId>
+			<artifactId>javax.faces</artifactId>
+			<version>2.3.9</version>
+		</dependency>
 		
 	</dependencies>
 
